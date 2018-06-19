@@ -125,5 +125,6 @@ body {
 
   .negrita {
     font-weight: bold;
+    cursor: pointer;
   }
 }
