@@ -122,4 +122,8 @@ body {
   .col-sm-2 {
     width: 16.66666667%;
   }
+
+  .negrita {
+    color: black;
+  }
 }
