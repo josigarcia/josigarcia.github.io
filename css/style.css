@@ -127,4 +127,8 @@ body {
     font-weight: bold;
     cursor: pointer;
   }
+
+  #ocupacion: hover > .negrita {
+    color: red;
+  }
 }
