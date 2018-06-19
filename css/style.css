@@ -128,8 +128,4 @@ body {
     cursor: pointer;
   }
 
-  li: hover {
-    background: blue;
-    color: white;
-  }
 }
